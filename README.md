@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ---
 
-[![riroan's GitHub stats](https://github-readme-stats.vercel.app/api?username=riroan&theme=dracula)](https://github.com/riroan)
+[![riroan's GitHub stats](https://github-readme-stats.vercel.app/api?username=riroan&theme=radical)](https://github.com/riroan)
 
 건국대학교 컴퓨터공학부 3학년 재학중
 
