@@ -36,5 +36,3 @@ Here are some ideas to get you started:
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=riroan"/>
 
 건국대학교 컴퓨터공학부 3학년 재학중
-
-이메일 : riroan@naver.com
