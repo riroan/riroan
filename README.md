@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Spyder%20IDE-FF0000?style=flat-square&logo=Spyder%20IDE&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/> <!--<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white"/>-->
 
----
+### ⚡ Stats
 
 [![riroan's GitHub stats](https://github-readme-stats.vercel.app/api?username=riroan&theme=radical)](https://github.com/riroan)
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=riroan"/>
