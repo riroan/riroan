@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 - 파이썬을 이용한 딥러닝과 NLP 교육수료
 - ICPC Seoul Regional
-- 육군 SW개발병 전역
+- 육군 SW개발병 만기전역
 - SW Maestro 12기 (~ing)
 
 ### ⚡ Stats
