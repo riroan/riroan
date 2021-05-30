@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ### ⚡ Experiences
 
 - 파이썬을 이용한 딥러닝과 NLP 교육수료
-- ICPC Seoul Regional
+- 2018 ICPC Seoul Regional
 - 육군 SW개발병 만기전역
 - SW Maestro 12기 (~ing)
 
