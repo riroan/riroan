@@ -41,5 +41,3 @@ Here are some ideas to get you started:
 
 [![riroan's GitHub stats](https://github-readme-stats.vercel.app/api?username=riroan&theme=radical)](https://github.com/riroan)
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=riroan"/>
-
-건국대학교 컴퓨터공학부 3학년 재학중
