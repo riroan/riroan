@@ -1,8 +1,6 @@
-
-### Hi there 👋    
+### Hi there 👋😄 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Friroan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/riroan)     [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=riroan)](https://solved.ac/riroan)
-
 <!--
 **riroan/riroan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### ⚡ Introduce Myself
+### 😄 Introduce Myself
 
 파이썬을 주력언어로 딥러닝(컴퓨터비전, 강화학습, 자연어 처리)등을 관심있게 공부해왔습니다. 
 
@@ -38,3 +36,4 @@ Here are some ideas to get you started:
 - 2018 ICPC Seoul Regional
 - 육군 SW개발병 만기전역
 - SW Maestro 12기 (~ing)
+
