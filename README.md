@@ -41,4 +41,4 @@ Here are some ideas to get you started:
   
 ---
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=riroan&show_icons=true&theme=gruvbox)](https://github.com/riroan/github-readme-stats)
-<!--[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=riroan)](https://solved.ac/riroan)-->
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=riroan)](https://solved.ac/riroan)
