@@ -3,7 +3,6 @@
 
 <!--## Hi there 👋😄 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Friroan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/riroan)  
-<a href="https://github.com/riroan"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> </a>
 <a href="https://codetrace.com/users/riroan"><img src="https://codetrace.com/widget/riroan" width="220" height="50" /></a>
 
 
@@ -39,6 +38,13 @@ Here are some ideas to get you started:
 ### 🛠 Tech stack that I've used at least once
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/> <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white"/>
    
----
+### :rainbow: Follow me
+<a href="https://riroan.tistory.com"><img src="https://img.shields.io/badge/Blog-0AC18E?style=flat-square&logo=Bitdefender&logoColor=white"/></a>
+<a href="https://github.com/riroan"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> 
+<a href="mailto:riroan@naver.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Mail&logoColor=white"/>
+ 
+### ⚡ etc
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=riroan&show_icons=true&theme=gruvbox)](https://github.com/riroan/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=riroan&theme=onedark&title=MultiLanguage,Commits,Repository,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=riroan)](https://solved.ac/riroan)
