@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ### :rainbow: Follow me
 <a href="https://riroan.tistory.com"><img src="https://img.shields.io/badge/Blog-0AC18E?style=flat-square&logo=Bitdefender&logoColor=white"/></a>
 <a href="https://github.com/riroan"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> 
-<a href="mailto:riroan@naver.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Mail&logoColor=white"/>
+<a href="mailto:riroan@naver.com"><img src="https://img.shields.io/badge/Mail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
  
 ### ⚡ etc
 
