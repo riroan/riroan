@@ -45,6 +45,8 @@ Here are some ideas to get you started:
  
 ### ⚡ etc
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=riroan&show_icons=true&theme=gruvbox)](https://github.com/riroan/github-readme-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=riroan&theme=onedark&title=MultiLanguage,Commits,Repository,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=riroan&show_icons=true&theme=gruvbox)](https://github.com/riroan/github-readme-stats)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=riroan)](https://solved.ac/riroan)
+
