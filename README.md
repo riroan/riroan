@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👯 <a href="https://snowy-coaster-d0d.notion.site/a0f2b6d2d1ec4345a6fe4257acfb0099">CV</a>
+### 👯 <a href="https://riroan.notion.site/a0f2b6d2d1ec4345a6fe4257acfb0099">CV</a>
 
 ### 😆 Introduce Myself
 
