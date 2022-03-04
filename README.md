@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Hi%20there,%20I'm%20meonggi&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Hi%20there,%20I'm%20myeonggi&fontSize=40)
 
 
 <!--## Hi there 👋😄 -->
