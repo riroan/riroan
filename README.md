@@ -25,12 +25,6 @@ Here are some ideas to get you started:
 
 ### 👯 <a href="https://drive.google.com/file/d/14-RhskBPFp3wCMNA7ErP42D5oDHffgYJ/view">CV</a>
 
-### 😆 Introduce Myself
-
-새로운 기술을 배우는 것을 좋아합니다.
-
-언제나 코드를 개선시킬 수 있는지 고민합니다.
-
 ### 🛠 My Skill Set
 <table><tr><td valign="top" width="33%">
 
