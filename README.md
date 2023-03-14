@@ -31,8 +31,6 @@ Here are some ideas to get you started:
 
 언제나 코드를 개선시킬 수 있는지 고민합니다.
 
-다양한 개발 경험이 있어 어느 분야든 쉽게 적응할 수 있습니다.
-
 ### 🛠 My Skill Set
 <table><tr><td valign="top" width="33%">
 
