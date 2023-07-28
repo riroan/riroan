@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👯 <a href="https://drive.google.com/file/d/14-RhskBPFp3wCMNA7ErP42D5oDHffgYJ/view">CV</a>
+### 👯 <a href="https://drive.google.com/file/d/1_qrKV0Ha8TlP5vSAGma8pIJrjUa_IA_v/view?usp=sharing">About Me</a>
 
 ### 🛠 My Skill Set
 <table><tr><td valign="top" width="33%">
