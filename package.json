@@ -1,0 +1,25 @@
+{
+	"name": "riroan",
+	"version": "1.0.0",
+	"description": "![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Hi%20there,%20I'm%20myeonggi&fontSize=40)",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node readmeUpdate.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/riroan/riroan.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/riroan/riroan/issues"
+	},
+	"homepage": "https://github.com/riroan/riroan#readme",
+	"dependencies": {
+		"rss-parser": "^3.13.0"
+	},
+  "type": "module"
+}

@@ -1,0 +1,24 @@
+name: Readme Update
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+      - name: Install dependencies
+        run: npm ci
+      - name: Update README
+        run: npm start
+      - name: Commit README
+        run: |
+          git add .
+          git config --local user.email "riroan@naver.com"
+          git config --local user.name "riroan"
+          git commit -m "Update README.md"
+          git push

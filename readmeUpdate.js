@@ -1,4 +1,13 @@
-<img src="./images/header.png" />
+import { writeFileSync } from 'node:fs';
+import Parser from 'rss-parser';
+
+/**
+ * README.MD에 작성될 페이지 텍스트
+ * @type {string}
+ */
+
+const getText = (posts) => {
+  return `<img src="./images/header.png" />
 
 <!-- ### 👯 <a href="https://drive.google.com/file/d/1NR2jyKIKGph178ernL4MCQEqvbN55MPc/view?usp=sharing">About Me</a> -->
 
@@ -27,7 +36,32 @@
 
 ### :page_with_curl: My latest posts
 
+${posts}
+
 ### ⚡ etc
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=riroan&theme=onedark&title=MultiLanguage,Commits,Repository,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=riroan)](https://solved.ac/riroan)
+`
+}
+
+const parser = new Parser({
+	headers: {
+		Accept: 'application/rss+xml, application/xml, text/xml; q=0.1',
+	},
+});
+
+(async () => {
+	const feed = await parser.parseURL('https://riroan.tistory.com/rss')
+  let text = ""
+	for (let i = 0; i < 5; i++) {
+		const { title, link } = feed.items[i]
+		text += `<a href=${link}>${title}</a></br>`
+	}
+
+	writeFileSync('README.md', getText(text), 'utf8', e => {
+		console.log(e)
+	})
+
+	console.log('업데이트 완료')
+})()
