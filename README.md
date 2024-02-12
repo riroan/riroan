@@ -27,7 +27,7 @@
 
 ### :page_with_curl: My latest posts
 
-<a href=https://riroan.tistory.com/170>[알고리즘] 알고리즘(PS)이 개발에 미치는 영향</a></br><a href=https://riroan.tistory.com/169>[알고리즘] solved.ac Grand Arena Party onsite (Arena #18) 후기</a></br><a href=https://riroan.tistory.com/168>[알고리즘] 덱 (deque)</a></br><a href=https://riroan.tistory.com/167>2023년을 되돌아보며</a></br><a href=https://riroan.tistory.com/166>[개발] 제 1회 엘리스 코드 챌린지 참가 후기</a></br>
+<a href=https://riroan.tistory.com/170>[알고리즘] 알고리즘(PS)이 개발에 미치는 영향</a> (24.02.05)</br><a href=https://riroan.tistory.com/169>[알고리즘] solved.ac Grand Arena Party onsite (Arena #18) 후기</a> (24.02.04)</br><a href=https://riroan.tistory.com/168>[알고리즘] 덱 (deque)</a> (24.01.02)</br><a href=https://riroan.tistory.com/167>2023년을 되돌아보며</a> (23.12.31)</br><a href=https://riroan.tistory.com/166>[개발] 제 1회 엘리스 코드 챌린지 참가 후기</a> (23.12.16)</br>
 
 ### ⚡ etc
 

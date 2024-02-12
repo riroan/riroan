@@ -1,13 +1,13 @@
-import { writeFileSync } from 'node:fs';
-import Parser from 'rss-parser';
+import { writeFileSync } from 'node:fs'
+import Parser from 'rss-parser'
 
 /**
  * README.MD에 작성될 페이지 텍스트
  * @type {string}
  */
 
-const getText = (posts) => {
-  return `<img src="./images/header.png" />
+const getText = posts => {
+	return `<img src="./images/header.png" />
 
 <!-- ### 👯 <a href="https://drive.google.com/file/d/1NR2jyKIKGph178ernL4MCQEqvbN55MPc/view?usp=sharing">About Me</a> -->
 
@@ -49,14 +49,18 @@ const parser = new Parser({
 	headers: {
 		Accept: 'application/rss+xml, application/xml, text/xml; q=0.1',
 	},
-});
+})
 
-(async () => {
+;(async () => {
 	const feed = await parser.parseURL('https://riroan.tistory.com/rss')
-  let text = ""
+	let text = ''
 	for (let i = 0; i < 5; i++) {
 		const { title, link } = feed.items[i]
-		text += `<a href=${link}>${title}</a></br>`
+		const date = new Date(feed.items[i].isoDate)
+		const month = date.getMonth() + 1
+		const day = date.getDate()
+		const strDate = `(${date.getFullYear() % 100}.${month < 10 ? '0' : ''}${month}.${day < 10 ? '0' : ''}${day})`
+		text += `<a href=${link}>${title}</a> ${strDate}</br>`
 	}
 
 	writeFileSync('README.md', getText(text), 'utf8', e => {
