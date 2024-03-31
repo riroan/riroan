@@ -2,6 +2,8 @@
 
 <!-- ### 👯 <a href="https://drive.google.com/file/d/1NR2jyKIKGph178ernL4MCQEqvbN55MPc/view?usp=sharing">About Me</a> -->
 
+### <a href="https://www.riroan.com">:thinking: Who is riroan?</a>
+
 ### :books: My Skill Set
 <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp&theme=light" width="36" height="36" alt="CPP" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python&theme=light" width="36" height="36" alt="Python" /></a>
