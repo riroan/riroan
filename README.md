@@ -29,7 +29,7 @@
 
 ### :page_with_curl: My latest posts
 
-<a href=https://riroan.tistory.com/175>[알고리즘] 현대모비스 알고리즘 경진대회 2024 후기</a> (24.07.06)</br><a href=https://riroan.tistory.com/174>[알고리즘] 서울대학교 SCSC 프로그래밍 경진대회 후기</a> (24.06.06)</br><a href=https://riroan.tistory.com/173>[개발] 클라우드에 대해 알아보기</a> (24.04.24)</br><a href=https://riroan.tistory.com/172>[개발] 2024 카카오 겨울 인턴쉽 + 전환 후기</a> (24.04.19)</br><a href=https://riroan.tistory.com/171>[수학] Online Math Contest</a> (24.02.17)</br>
+<a href=https://riroan.tistory.com/176>[개발] SQL vs NoSQL</a> (24.07.12)</br><a href=https://riroan.tistory.com/175>[알고리즘] 현대모비스 알고리즘 경진대회 2024 후기</a> (24.07.06)</br><a href=https://riroan.tistory.com/174>[알고리즘] 서울대학교 SCSC 프로그래밍 경진대회 후기</a> (24.06.06)</br><a href=https://riroan.tistory.com/173>[개발] 클라우드에 대해 알아보기</a> (24.04.24)</br><a href=https://riroan.tistory.com/172>[개발] 2024 카카오 겨울 인턴쉽 + 전환 후기</a> (24.04.19)</br>
 
 ### ⚡ etc
 
