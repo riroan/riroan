@@ -29,7 +29,7 @@
 
 ### :page_with_curl: My latest posts
 
-<a href=https://riroan.tistory.com/178>[알고리즘] Push Relabel 알고리즘</a> (24.08.30)</br><a href=https://riroan.tistory.com/177>[알고리즘] Berlekamp-Massey 알고리즘 톺아보기</a> (24.07.24)</br><a href=https://riroan.tistory.com/176>[개발] SQL vs NoSQL</a> (24.07.12)</br><a href=https://riroan.tistory.com/175>[알고리즘] 현대모비스 알고리즘 경진대회 2024 후기</a> (24.07.06)</br><a href=https://riroan.tistory.com/174>[알고리즘] 서울대학교 SCSC 프로그래밍 경진대회 후기</a> (24.06.06)</br>
+<a href=https://riroan.tistory.com/179>[알고리즘] Suffix Automaton</a> (24.09.08)</br><a href=https://riroan.tistory.com/178>[알고리즘] Push Relabel 알고리즘</a> (24.08.30)</br><a href=https://riroan.tistory.com/177>[알고리즘] Berlekamp-Massey 알고리즘 톺아보기</a> (24.07.24)</br><a href=https://riroan.tistory.com/176>[개발] SQL vs NoSQL</a> (24.07.12)</br><a href=https://riroan.tistory.com/175>[알고리즘] 현대모비스 알고리즘 경진대회 2024 후기</a> (24.07.06)</br>
 
 ### ⚡ etc
 
