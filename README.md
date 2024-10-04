@@ -29,7 +29,7 @@
 
 ### :page_with_curl: My latest posts
 
-<a href=https://riroan.tistory.com/181>[알고리즘] Pollard rho 알고리즘</a> (24.09.27)</br><a href=https://riroan.tistory.com/180>[암호학] 23. Zero Knowledge Proof</a> (24.09.14)</br><a href=https://riroan.tistory.com/179>[알고리즘] Suffix Automaton</a> (24.09.08)</br><a href=https://riroan.tistory.com/178>[알고리즘] Push Relabel 알고리즘</a> (24.08.30)</br><a href=https://riroan.tistory.com/177>[알고리즘] Berlekamp-Massey 알고리즘 톺아보기</a> (24.07.24)</br>
+<a href=https://riroan.tistory.com/182>[알고리즘] PS를 위한 Splay Tree</a> (24.10.03)</br><a href=https://riroan.tistory.com/181>[알고리즘] Pollard rho 알고리즘</a> (24.09.27)</br><a href=https://riroan.tistory.com/180>[암호학] 23. Zero Knowledge Proof</a> (24.09.14)</br><a href=https://riroan.tistory.com/179>[알고리즘] Suffix Automaton</a> (24.09.08)</br><a href=https://riroan.tistory.com/178>[알고리즘] Push Relabel 알고리즘</a> (24.08.30)</br>
 
 ### ⚡ etc
 
